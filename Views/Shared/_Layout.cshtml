@@ -1,0 +1,26 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" >
+<link rel="stylesheet" href="~/css/vendas.css" />
+<title>Loja de Produtos</title>
+</head>
+<body>
+<div class="container">
+<header>
+<h1 class="titulo">Loja de produtos</h1>
+</header>
+<!-- menu -->
+<partial name="_MenuPrincipal" />
+<main>
+<!-- corpo da pagina -->
+@RenderBody()
+</main>
+<footer>
+&copy; 2019 - Vendas
+</footer>
+</div>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+@RenderSection("Scripts", false)
+</body>
+</html>

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Tvq0H0sc97W/ywBX3J+j7sVZDvJnpB7r6ZeZkkT+O2K6RZ/Xw3MeiG6d1iJAqubQg4FKM1DJNEeBol2ytJSafQ==",
+  "success": true,
+  "projectFilePath": "/home/rafael/Downloads/partial-view-ajax-main/Vendas.csproj",
+  "expectedPackageFiles": [
+    "/home/rafael/.nuget/packages/mysqlconnector/1.2.1/mysqlconnector.1.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}

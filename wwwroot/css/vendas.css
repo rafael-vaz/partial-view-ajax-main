@@ -1,0 +1,120 @@
+﻿body{
+  background-color: #ffff;
+  color: #6666;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1.2em;
+  margin:0;
+}
+
+header{
+  padding: 0.7em;
+  border-radius: 15px;
+  background-color: #176f90;
+  background-image: linear-gradient(141deg, #009c58 0%, #176f90 50%);
+}
+
+.titulo{
+  margin:0; 
+  color: white;
+}
+
+a{
+  color:#fff;
+  font-weight: bold;
+  text-decoration: none;
+
+}
+
+a:hover{
+
+  color: #ffffff;
+  text-decoration: underline;
+}
+
+.conteiner{
+  position: relative;
+  min-height: 100vh;
+  margin-left: 1em;
+  margin-right: 1em;
+}
+
+main{
+  /*Recuo necessário para não sobrepor ao rodapé*/
+  padding-bottom: 2.5rem;
+  margin-left: 15%;
+  display: table;
+  }
+
+  footer{
+    position: relative; /*necessário para se manter no fim da página*/
+    bottom: 0; /*bottom 0 == fim da página*/ 
+    padding-top:1.5rem;
+    padding-bottom: 1.5rem;
+    text-align: center;
+    border-top: 1px solid #666666;
+    width:100%;
+    clear:both;
+    }
+
+
+.menu-esquerdo{
+  float:left; /*fica à esquerda na tela*/
+  background-color: #799dab;
+  width:10%; /*largura relativa*/
+  margin:20px 20px 20px 0;
+  border-radius: 5px;
+  overflow: hidden; /*esconde texto se a janela é pequena demais*/
+  }
+  .menu-esquerdo ul{
+  list-style-type: none; /*lista sem círculos nos itens*/
+  padding: 0.6em; 
+  }
+  .menu-esquerdo ul li{
+  margin-bottom: 0.6em; /*separação entre os links*/
+  }
+
+  main{
+    /*Recuo necessário para não sobrepor ao rodapé*/
+    padding-bottom: 2.5rem;
+    margin-left: 15%;
+    }
+
+    .produto{ /*estilo para a caixa de produto*/
+      width: 20%; /*20% da tela */
+      float: left;
+      margin: 2em;
+      padding: 1em;
+      background-color: white;
+      box-shadow: 2px 2px 5px #CFCFCF;
+      transition: transform 0.5s; /*animação de destaque quando passa o mouse*/
+    } 
+      .produto:hover{
+      transform: scale(1.05, 1.05); /*executando a animação*/
+      }
+      
+      produto img{
+      width:100%;/*ajusta a imagem à largura da caixa de produto (o div)*/
+      }
+      .produto .nome{
+      font-weight: bold;
+      }
+      .produto .preco{
+      font-weight: bold;
+      color: #B3926F;
+      }
+      .produto button{
+      padding: 0.7em;
+      border-radius:5px;
+      background-color: #176f90;
+      color: white;
+      font-weight: bold;
+      }
+
+      .ordenacao{
+        margin-top: 1em;
+        margin-left: 1em;
+        }
+
+     
+
+        

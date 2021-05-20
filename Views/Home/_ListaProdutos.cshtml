@@ -1,0 +1,5 @@
+@model List<Vendas.Models.Produto>
+@foreach (var produto in Model)
+{
+@await Html.PartialAsync("_Produto", produto)
+}

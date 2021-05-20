@@ -1,0 +1,87 @@
+/home/rafael/Área de Trabalho/Vendas/bin/Debug/net5.0/appsettings.Development.json
+/home/rafael/Área de Trabalho/Vendas/bin/Debug/net5.0/appsettings.json
+/home/rafael/Área de Trabalho/Vendas/bin/Debug/net5.0/Vendas
+/home/rafael/Área de Trabalho/Vendas/bin/Debug/net5.0/Vendas.deps.json
+/home/rafael/Área de Trabalho/Vendas/bin/Debug/net5.0/Vendas.runtimeconfig.json
+/home/rafael/Área de Trabalho/Vendas/bin/Debug/net5.0/Vendas.runtimeconfig.dev.json
+/home/rafael/Área de Trabalho/Vendas/bin/Debug/net5.0/Vendas.dll
+/home/rafael/Área de Trabalho/Vendas/bin/Debug/net5.0/ref/Vendas.dll
+/home/rafael/Área de Trabalho/Vendas/bin/Debug/net5.0/Vendas.pdb
+/home/rafael/Área de Trabalho/Vendas/bin/Debug/net5.0/Vendas.Views.dll
+/home/rafael/Área de Trabalho/Vendas/bin/Debug/net5.0/Vendas.Views.pdb
+/home/rafael/Área de Trabalho/Vendas/bin/Debug/net5.0/MySqlConnector.dll
+/home/rafael/Área de Trabalho/Vendas/obj/Debug/net5.0/Vendas.csprojAssemblyReference.cache
+/home/rafael/Área de Trabalho/Vendas/obj/Debug/net5.0/Vendas.GeneratedMSBuildEditorConfig.editorconfig
+/home/rafael/Área de Trabalho/Vendas/obj/Debug/net5.0/Vendas.AssemblyInfoInputs.cache
+/home/rafael/Área de Trabalho/Vendas/obj/Debug/net5.0/Vendas.AssemblyInfo.cs
+/home/rafael/Área de Trabalho/Vendas/obj/Debug/net5.0/Vendas.csproj.CoreCompileInputs.cache
+/home/rafael/Área de Trabalho/Vendas/obj/Debug/net5.0/Vendas.MvcApplicationPartsAssemblyInfo.cache
+/home/rafael/Área de Trabalho/Vendas/obj/Debug/net5.0/Vendas.RazorAssemblyInfo.cache
+/home/rafael/Área de Trabalho/Vendas/obj/Debug/net5.0/Vendas.RazorAssemblyInfo.cs
+/home/rafael/Área de Trabalho/Vendas/obj/Debug/net5.0/staticwebassets/Vendas.StaticWebAssets.Manifest.cache
+/home/rafael/Área de Trabalho/Vendas/obj/Debug/net5.0/staticwebassets/Vendas.StaticWebAssets.xml
+/home/rafael/Área de Trabalho/Vendas/obj/Debug/net5.0/scopedcss/bundle/Vendas.styles.css
+/home/rafael/Área de Trabalho/Vendas/obj/Debug/net5.0/Vendas.TagHelpers.input.cache
+/home/rafael/Área de Trabalho/Vendas/obj/Debug/net5.0/Vendas.TagHelpers.output.cache
+/home/rafael/Área de Trabalho/Vendas/obj/Debug/net5.0/Vendas.RazorCoreGenerate.cache
+/home/rafael/Área de Trabalho/Vendas/obj/Debug/net5.0/Razor/Views/Home/Index.cshtml.g.cs
+/home/rafael/Área de Trabalho/Vendas/obj/Debug/net5.0/Razor/Views/Shared/Error.cshtml.g.cs
+/home/rafael/Área de Trabalho/Vendas/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
+/home/rafael/Área de Trabalho/Vendas/obj/Debug/net5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/home/rafael/Área de Trabalho/Vendas/obj/Debug/net5.0/Razor/Views/_ViewImports.cshtml.g.cs
+/home/rafael/Área de Trabalho/Vendas/obj/Debug/net5.0/Razor/Views/_ViewStart.cshtml.g.cs
+/home/rafael/Área de Trabalho/Vendas/obj/Debug/net5.0/Vendas.RazorTargetAssemblyInfo.cache
+/home/rafael/Área de Trabalho/Vendas/obj/Debug/net5.0/Vendas.RazorTargetAssemblyInfo.cs
+/home/rafael/Área de Trabalho/Vendas/obj/Debug/net5.0/Vendas.Views.pdb
+/home/rafael/Área de Trabalho/Vendas/obj/Debug/net5.0/Vendas.csproj.CopyComplete
+/home/rafael/Área de Trabalho/Vendas/obj/Debug/net5.0/Vendas.dll
+/home/rafael/Área de Trabalho/Vendas/obj/Debug/net5.0/ref/Vendas.dll
+/home/rafael/Área de Trabalho/Vendas/obj/Debug/net5.0/Vendas.pdb
+/home/rafael/Área de Trabalho/Vendas/obj/Debug/net5.0/Vendas.genruntimeconfig.cache
+/home/rafael/Área de Trabalho/Vendas/obj/Debug/net5.0/Razor/Views/Shared/_MenuPrincipal.cshtml.g.cs
+/home/rafael/Área de Trabalho/Vendas/obj/Debug/net5.0/Razor/Views/Home/_Produto.cshtml.g.cs
+/home/rafael/Área de Trabalho/Vendas/obj/Debug/net5.0/Razor/Views/Home/_ListaProdutos.cshtml.g.cs
+/home/rafael/Downloads/partial-view-ajax-main/bin/Debug/net5.0/appsettings.Development.json
+/home/rafael/Downloads/partial-view-ajax-main/bin/Debug/net5.0/appsettings.json
+/home/rafael/Downloads/partial-view-ajax-main/bin/Debug/net5.0/Vendas
+/home/rafael/Downloads/partial-view-ajax-main/bin/Debug/net5.0/Vendas.deps.json
+/home/rafael/Downloads/partial-view-ajax-main/bin/Debug/net5.0/Vendas.runtimeconfig.json
+/home/rafael/Downloads/partial-view-ajax-main/bin/Debug/net5.0/Vendas.runtimeconfig.dev.json
+/home/rafael/Downloads/partial-view-ajax-main/bin/Debug/net5.0/Vendas.dll
+/home/rafael/Downloads/partial-view-ajax-main/bin/Debug/net5.0/ref/Vendas.dll
+/home/rafael/Downloads/partial-view-ajax-main/bin/Debug/net5.0/Vendas.pdb
+/home/rafael/Downloads/partial-view-ajax-main/bin/Debug/net5.0/Vendas.Views.dll
+/home/rafael/Downloads/partial-view-ajax-main/bin/Debug/net5.0/Vendas.Views.pdb
+/home/rafael/Downloads/partial-view-ajax-main/bin/Debug/net5.0/MySqlConnector.dll
+/home/rafael/Downloads/partial-view-ajax-main/obj/Debug/net5.0/Vendas.csprojAssemblyReference.cache
+/home/rafael/Downloads/partial-view-ajax-main/obj/Debug/net5.0/Vendas.GeneratedMSBuildEditorConfig.editorconfig
+/home/rafael/Downloads/partial-view-ajax-main/obj/Debug/net5.0/Vendas.AssemblyInfoInputs.cache
+/home/rafael/Downloads/partial-view-ajax-main/obj/Debug/net5.0/Vendas.AssemblyInfo.cs
+/home/rafael/Downloads/partial-view-ajax-main/obj/Debug/net5.0/Vendas.csproj.CoreCompileInputs.cache
+/home/rafael/Downloads/partial-view-ajax-main/obj/Debug/net5.0/Vendas.MvcApplicationPartsAssemblyInfo.cache
+/home/rafael/Downloads/partial-view-ajax-main/obj/Debug/net5.0/Vendas.RazorAssemblyInfo.cache
+/home/rafael/Downloads/partial-view-ajax-main/obj/Debug/net5.0/Vendas.RazorAssemblyInfo.cs
+/home/rafael/Downloads/partial-view-ajax-main/obj/Debug/net5.0/staticwebassets/Vendas.StaticWebAssets.Manifest.cache
+/home/rafael/Downloads/partial-view-ajax-main/obj/Debug/net5.0/staticwebassets/Vendas.StaticWebAssets.xml
+/home/rafael/Downloads/partial-view-ajax-main/obj/Debug/net5.0/scopedcss/bundle/Vendas.styles.css
+/home/rafael/Downloads/partial-view-ajax-main/obj/Debug/net5.0/Vendas.TagHelpers.input.cache
+/home/rafael/Downloads/partial-view-ajax-main/obj/Debug/net5.0/Vendas.TagHelpers.output.cache
+/home/rafael/Downloads/partial-view-ajax-main/obj/Debug/net5.0/Vendas.RazorCoreGenerate.cache
+/home/rafael/Downloads/partial-view-ajax-main/obj/Debug/net5.0/Razor/Views/Home/Carrinho.cshtml.g.cs
+/home/rafael/Downloads/partial-view-ajax-main/obj/Debug/net5.0/Razor/Views/Home/Index.cshtml.g.cs
+/home/rafael/Downloads/partial-view-ajax-main/obj/Debug/net5.0/Razor/Views/Home/_ListaProdutos.cshtml.g.cs
+/home/rafael/Downloads/partial-view-ajax-main/obj/Debug/net5.0/Razor/Views/Home/_Produto.cshtml.g.cs
+/home/rafael/Downloads/partial-view-ajax-main/obj/Debug/net5.0/Razor/Views/Shared/Error.cshtml.g.cs
+/home/rafael/Downloads/partial-view-ajax-main/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
+/home/rafael/Downloads/partial-view-ajax-main/obj/Debug/net5.0/Razor/Views/Shared/_MenuPrincipal.cshtml.g.cs
+/home/rafael/Downloads/partial-view-ajax-main/obj/Debug/net5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/home/rafael/Downloads/partial-view-ajax-main/obj/Debug/net5.0/Razor/Views/_ViewImports.cshtml.g.cs
+/home/rafael/Downloads/partial-view-ajax-main/obj/Debug/net5.0/Razor/Views/_ViewStart.cshtml.g.cs
+/home/rafael/Downloads/partial-view-ajax-main/obj/Debug/net5.0/Vendas.RazorTargetAssemblyInfo.cache
+/home/rafael/Downloads/partial-view-ajax-main/obj/Debug/net5.0/Vendas.RazorTargetAssemblyInfo.cs
+/home/rafael/Downloads/partial-view-ajax-main/obj/Debug/net5.0/Vendas.Views.pdb
+/home/rafael/Downloads/partial-view-ajax-main/obj/Debug/net5.0/Vendas.csproj.CopyComplete
+/home/rafael/Downloads/partial-view-ajax-main/obj/Debug/net5.0/Vendas.dll
+/home/rafael/Downloads/partial-view-ajax-main/obj/Debug/net5.0/ref/Vendas.dll
+/home/rafael/Downloads/partial-view-ajax-main/obj/Debug/net5.0/Vendas.pdb
+/home/rafael/Downloads/partial-view-ajax-main/obj/Debug/net5.0/Vendas.genruntimeconfig.cache

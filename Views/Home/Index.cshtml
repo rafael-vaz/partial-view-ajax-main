@@ -1,0 +1,20 @@
+﻿@model List<Vendas.Models.Produto>
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+<div class="ordenacao">
+<label for="selOrdem">Ordenar por:</label>
+<select id="selOrdem">
+<option value="N">Nome</option>
+<option value="P">Preço</option>
+<option value="C">Categoria</option>
+</select>
+</div>
+<div id="divLista">
+@await Html.PartialAsync("_ListaProdutos", Model)
+</div>
+
+@section Scripts{
+    <script src="~/js/index.js"></script>
+}

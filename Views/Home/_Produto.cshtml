@@ -1,0 +1,8 @@
+@model Vendas.Models.Produto
+<div class="produto">
+<img src="~/imagens/tecnologia.jpg" width="200px"/>
+<p class="nome">@Model.Nome</p>
+<p>@Model.Descricao</p>
+<p class="preco">R$ @Model.Preco.ToString("0.00") </p>
+<button>Incluir no carrinho</button>
+</div>
